@@ -1,2 +1,2 @@
-# Exerc-cios
+# Exercícios - HTML
 Repositório para aprendizado sobre HTML.
